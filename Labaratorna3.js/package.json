@@ -1,0 +1,11 @@
+{
+  "name": "js-laba3",
+  "version": "1.0.0",
+  "description": "Лабораторная работа №3: функции, генерация ключей, преобразование IP, интроспекция объектов.",
+  "main": "src/test.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
