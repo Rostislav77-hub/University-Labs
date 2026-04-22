@@ -2,6 +2,9 @@
 
 This repository contains basic JavaScript labs covering algorithms, data structures, and functional programming fundamentals.
 
+This is the First Semester repository. I've been making edits to it, so it has two branches:
+First: Master (the branch for the entire First Semester's work) and Main (currently the Front Branch).
+
 ---
 
 ## 📌 Completed works:
