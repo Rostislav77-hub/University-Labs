@@ -1,0 +1,8 @@
+{
+  "name": "js-laba2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node Exercises/test.js"
+  },
+  "dependencies": {}
+}
