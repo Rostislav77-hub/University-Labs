@@ -1,0 +1,19 @@
+# Аddictions
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Operating system files (to avoid littering)
+.DS_Store
+Thumbs.db
+
+# Development environment (editor settings)
+.vscode/
+.idea/
+
+# Files with secrets and environment variables (for future reference)
+.env
