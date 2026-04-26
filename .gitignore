@@ -17,3 +17,11 @@ Thumbs.db
 
 # Files with secrets and environment variables (for future reference)
 .env
+
+# VS Code & Extensions
+tempCodeRunnerFile.js
+*tempCodeRunnerFile*
+
+# Testing
+coverage/
+.nyc_output/
